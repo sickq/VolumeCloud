@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.VolumeCloud.iml
+# Datasource local storage ignored files
+/../../../../../../../:\UnityProject\Unity2018\VolumeCloud\.idea\.idea.VolumeCloud\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
